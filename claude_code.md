@@ -6,5 +6,5 @@
 
 ### From Scratch
 - I want to build [ONE-LINE DESCRIPTION].
-- Interview me in detail. Cover implementation approach, edge cases, tradeoffs, and constraints. Skip obvious questions. - Ask one at a time and build on my answers.
+- Interview me in detail. Cover implementation approach, edge cases, tradeoffs, and constraints. Skip obvious questions. - Ask one at a time together with your recommended option and build on my answers.
 - When we've covered everything, write the spec to [SPEC FILENAME].
