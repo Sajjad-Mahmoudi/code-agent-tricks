@@ -8,3 +8,7 @@
 - I want to build [ONE-LINE DESCRIPTION].
 - Interview me in detail. Cover implementation approach, edge cases, tradeoffs, and constraints. Skip obvious questions. - Ask one at a time together with your recommended option and build on my answers.
 - When we've covered everything, write the spec to [SPEC FILENAME].
+
+### Commands
+- '/rewind': To summarise from a checkpoint
+- '/compact': To summarise everything so far
