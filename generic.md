@@ -1,1 +1,1 @@
-# Agent-agnostic Tips
+# Provider-Language-Agnostic Tips
