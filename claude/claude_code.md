@@ -15,5 +15,6 @@
 
 # Useful Built-ins
 ### Commands
-- '/rewind': To summarise from a checkpoint
-- '/compact': To summarise everything so far
+- ´/rewind': To summarise from a checkpoint
+- ´/compact': To summarise everything so far
+- ´Crtl + G´: To open the prompt to the text editor
